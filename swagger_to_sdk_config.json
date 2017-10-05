@@ -2,11 +2,11 @@
   "meta": {
     "version": "0.2.0",
     "language": "Ruby",
-    "autorest": "https://github.com/Azure/autorest/releases/download/test-stream-issue/microsoft.azure-autorest-core-2.0.5002.tgz",
+    "autorest": "latest",
     "autorest_options": {
       "ruby": "",
       "azure-arm": true,
-      "use": "/autorest.ruby",
+      "use": "/autorest.ruby/microsoft.azure-autorest.ruby-2.0.0.tgz",
       "debug": "",
       "verbose": ""
     }
