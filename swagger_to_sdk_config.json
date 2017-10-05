@@ -6,7 +6,7 @@
     "autorest_options": {
       "ruby": "",
       "azure-arm": true,
-      "use": "/autorest.ruby/microsoft.azure-autorest.ruby-2.0.0.tgz",
+      "use": "/autorest.ruby/package",
       "debug": "",
       "verbose": ""
     }
